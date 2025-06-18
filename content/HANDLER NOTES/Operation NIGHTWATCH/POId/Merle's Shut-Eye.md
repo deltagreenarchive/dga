@@ -1,0 +1,31 @@
+- Väike, kaheteist toaga motell
+- Omanik: Merle Barn - Groversville'i kõige rikkam mees
+- Lisaks on ta Vanematekogu esimees
+- Ta omab ka Merle's County Bunker - ainus alkoholiloaga asutus ning Merle's Auto & Body
+- Ainus koht, kus Agendid saavad ööbida, kui nad just ei rendi tuba mõne talumehe käest, mis paneks inimesi tõsiselt kulmu kergitama
+
+Toad:
+- 1
+- 2
+- 3
+- 4
+	- Phenomen-X'i produtsent [[Franc Carincola]]
+- 5
+	- Phenomen-X'i töötaja [[Jack Wittenbaum]]
+- 6
+- 7
+- 8
+- 9
+	- Agendid rendivad selle toa
+- 10
+	- Agendid rendivad selle toa
+- 11 -> [[Scott Adams#Adamsi tuba]]
+	- Rendib [[Scott Adams]] 
+	- Renditud kuni 11.09
+	- [[Scott Adams]] on jätkuvalt toas surnud
+	- Ühendatud vaheukse kaudu toaga nr 12
+- 12
+	- Rentis [[Scott Adams]]
+	- Renditud kuni 11.09
+	- Ametlikult mõeldud asjade hoidmiseks
+	- Toas peidab end [[Jane Allen]]

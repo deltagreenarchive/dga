@@ -1,0 +1,4 @@
+- Noorte kuttide kamp, kellega Billy koos ringi hängis, valju muusikat kuulas või vahel õlut jõi kui kellegi vend neile seda ostis
+- Nad kõik eitavad narkosidemeid
+- Nende lemmik koht chillimiseks on [[Reservuaar]]
+- 

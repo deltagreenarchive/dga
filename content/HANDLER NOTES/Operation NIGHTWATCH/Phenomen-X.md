@@ -1,0 +1,16 @@
+- Tegemist on paranormaalsetele nähtustele keskenduva uudistesaatega, mis on populaarne hilisõhtune saade
+- Sisaldab ohtralt vandenõuteooriad ning pakub neid toetavat informatsiooni
+- Varivalitsus loomulikult ei taha, et inimesed teaksid, mis tegelikult maailmas toimub!
+- Tulnukaröövid, UFOd ja mustad helikopterid on Phenomen-Xi leib
+- NRO DELTA oli see, kes neile infot jagas
+- Produtsent ja tema abi ööbivad Merle's Shut-Eye's
+- Nad on olnud Groversville'is kolm päeva
+- Nad on küsitlenud kohalikke, kuid kogu info, mis neil on ei ületa veel uudistekünnist
+
+- Kui Agendid jäävad vahele sellega, et nad on FBI ja küsitlevad inimesi UFO-de teemal, siis nad huvitavad asjast
+- Kaks päeva peale seda saabub nende võttemeeskond
+	- Nad jälitavad ning filmivad Agente
+	- Ühel hetkel varitsevad nad kaamerameeskonnaga Agente ning nõuavad neilt vastuseid
+	- Vahet pole, mida Agendid teevad, nad satuvad uudistesse
+		- Võib tekitada küsimusi FBI's, eriti kuna kõik Agendid ei ole ametlikult seotud FBI'ga
+	- Peagi pannakse parklasse püsti 24/7 valve, mis jälgib Agentide igat sammu

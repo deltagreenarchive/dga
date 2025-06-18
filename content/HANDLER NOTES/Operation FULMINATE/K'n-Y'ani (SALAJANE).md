@@ -1,0 +1,43 @@
+---
+aliases:
+  - Täheinimesed
+  - Kuuinimesed
+  - Teised
+  - K'n-Y'ani
+---
+- Tulnukate rass, millel on inimkonnaga ühised eellased
+- Tegemist on tehnoloogiliselt väga arenenud rassiga
+- Nad on alati olemas olnud
+- Kasutavad "pinnaelanikke" ehk inimesi toiduna ning enda paljundamiseks
+- Tegemist on küll surematute olenditega, kuid nende numbrid ajas siiski vähenevad
+- Algselt oli neid sadu tuhandeid, nüüd vaid sadu
+- Juba sajandeid on nad varastanud inimesi kasutades hüpergeomeetrilisi võimeid
+- Nende tõttu on tekkinud Ameerika põliselanike lugudesse mitmed legendid:
+	- "Kuu näoga inimesed", kellega kunagi Siuud ja Lakotad võitlesid
+	- Paiutedel on legende "Valgetest Kannibalidest"
+	- Arvatakse, et nemad on loonud "Serpent Mound"'i ning teised seotud ehitised, mida seostatakse Adena "Mound Builders" kultuuriga
+- Moodsas maailmas on nad peitnud ennast raskesti ligipääsetavatesse piirkondadesse
+- Enamus nende elamukohti on nii sügaval, et inimesed ei leia neid
+- Nende võimed võimaldavad neil liikuda nii ajas kui ruumis ebaloomulikel viisidel
+
+- Nad varastasid McGilli sest tema geenid sobituvad nende omadega. Aastakümneid kasutasid tegid nad rituaale oma jumalale Ossadogowah'ile, kes nakatas McGilli tulnukate geenidega, mistõttu ta hakkas tootma ainest nimega etzil iztac ehk "Valge Veri". 
+- K'n-Yani on kogunud seda piisavalt palju, et hakata ennast taastootma ning oma kunagisi hiigellinnu taastama
+- McGill äratati ainult kindlateks perioodideks, et talle rohkem "Jumala toitu" sööta
+- Selle toitmisega kaasnes aga ka kõrvalmõju, McGill sai endale võimed
+	- Kui ta õudusunenägu nägi tappis ta kogemate kümneid K'n-Yanisid ning "mõtles" end tagasi maapeale
+	- Ühtlasi loodi McGillist koopiad, et rohkem toitu saad. Nüüd need ärkavad samamoodi
+
+- K'n-Y'anid peavad leidma "originaal" McGilli ning ta kaasa võtma, kõik muu on tühine
+
+- Tegemist on kas inimeste eellastega või ühe inimkonna kõrvalharuga. Kus ja kuna me nendest eraldusime on täielik saladus
+	- Enamasti on kohtumised nendega täiesti hirmuäratavad
+		- Nad on ekstreemselt pikad, mõned kuni 5m pikkused
+		- Nende nahk on kollakas-hall
+		- Neil on lai nina, kõrge laup ning esiletulevad põsesarnad
+		- Nende lai ja pikk koju venitub tagasuunas välja
+			- Iidsed Kesk-Ameerika hõimud tegid enda koljudega samamoodi, et imiteerida enda K'n-Y'ani ülemaid
+		- Nende hambad on lamedad ja laiad ning paiknevad kahes reas
+		- Nende karvad on erinevates värvides ulatused mustast punaseni
+		- Tavaliselt elavad nad alasti kandes ainult niudevööd (loincloth)
+		- Tihti kannavad nad ehteid, mis on tehtud vasest, kullast ja micast
+		- Üksikutel on rohkem relvi kui tseremoniaalne nuga

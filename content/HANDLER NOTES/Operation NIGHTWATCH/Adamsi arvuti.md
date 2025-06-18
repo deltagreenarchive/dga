@@ -1,0 +1,39 @@
+Arvutis on kolm huvitavat faili
+	- Groversville notebook
+		- *Loomade lõikamine
+			- Kohalikud täägivad, et loomad avastati karjamaadelt, imelikel viisidel lõhkilõigatuna -> väga puhtad ning teravaservalised haavad
+			- Mõned talumehed nägid ööl vastu loomade avastamist taevas imelikke tulesid
+		- *Loomade muutmine*
+			- Robert Gum näitab Agentidele oma lehma, kelle udar eemaldati ilma ühegi nähtava haava või armita
+				- Keemilise testvedelikuga testides selgub, et udara asemele on pandud võltskude
+				- Laboriuuringute käigus leitakse, et see kude mimikeerib udarat, kui vasikas seda nügib ning lehm suudab jätkuvalt piima toota
+		- *Puuduv aeg*
+			- Need, keda Adams on intervjueerinud eitavad, et neil oleks osa ajast kadunud
+			- Nad eitavad seda ka siis kui neid hirmutatakse
+			- Nad ilmselgelt valetavad aga ei ütle midagi ükskõik kuidas neid ähvardatakse, v.a piinamine või surmaga ähvardamine
+				- Sellisel juhul nad tunnistavad aja puudumist aga nad tõesti ei tea, mis nendega selle aja jooksul juhtus
+			- Nad ütlevad midagi stiilis
+				- "Miks te jälle mind tülitate?" või
+				- "Te ajakirjanikud jätke mind juba rahule"
+		- *Helikopterid*
+			- ta nägi NRO DELTA kahte Blackhawck helikopterit, mis lasid maha ühe mi-go, mis oli isetegevust hakanud tegema
+		- *Tuled
+			- Peaaegu kõik linnaelanikud on öösel näinud tulesid
+			- Tuled on tegelikult mi-go'd, kes üle linna lendavad
+		- *Viljaringid*
+			- Paari põllumehe põldudele on tekkinud viljaringid
+			- Groversville'i viljaringid on väga lihtsa disainiga
+			- Agent, kellel on **Pilot / Military Science** saavad teha **+20%** checki
+				- Success -> tegemist on Blackhawkide maandumisaladega
+		- *J.A*
+			- See on viide [[Jane Allen]]ile, [[Bill Ray Spivey]] tüdruksõbrale
+		- *Allen, Barn, Thomas, Jacobs, Cartwright & Anderson*
+			- Tegemist on [[Vanematekogu]] liikmetega, kes ei lahku kunagi Linnavalitsusest
+	- sze,t
+		- Täielik hullumeelsus
+	- Message.wav
+		- Tegemist on lihtsalt kuulates täiesti arusaamatu
+		- **Computer Science / SIGINT**
+			- Success -> Kasutavad vastavat programmi Adamsi arvutis
+			- Metalne hääl ütleb:
+				- "...tegeleme. (*kshh*) on olnud pikka aega ning meil on palju asju, mida teha ning sa pole kindel, mida teha. Lõpeta, lõpeta."

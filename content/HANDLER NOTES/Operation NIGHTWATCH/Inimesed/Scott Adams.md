@@ -1,0 +1,92 @@
+- Päritolu: Knoxville, Tennessee
+- Vanus: 34
+- Kirjeldus: Suuremakasvuline, mustad lokkis juuksed, võrdlemisi suur puhmas habe
+- Watch the Skies! ajakirja toimetaja
+- Amatöör UFO vaatleja
+
+- Rööviti reservuaari ääres Mi-Go'de poolt,  ning eksperimendi käigus vahetati ära tema aju ning seljaaju vedelikud ära protomateeria vastu
+	- Sellest tulenevalt muutus ta ülitundlikuks ning sai endale närgad telepaatilised ning telekineetilised võimed, mida ta aga ei olnud võimeline kontrollima
+- Ta lukustas ennast [[Merle's Shut-Eye]] motellituppa, kattes kõik valgusallikad (nt aknad) ning keeras kõik pirnid välja
+	- Ta nägi piisavalt hästi pimedas, päevavalgus oli tema jaoks ärritavalt ere nagu ka päikesekiirguse talumatu kuumus ning UV-kiirgus, mida ta tundis samuti füüsilise objektina. 
+- Ta üritas arvuti kaudu võtta ühendust välismaailmaga, mispeale mi-go'd sundisid ta enesetappu sooritama.
+- Tema laip on jätkuvalt tema hotellitoa vannitoas vannis
+
+## Taustinfo / Uurimine
+- Paljud linnaelanikud, kellelt Agendid UFO-de kohta viitavad Adams'ile ("See UFO tüüp")
+- Adams tuli linna u 2,5 nädalat tagasi, napilt enne seda, kui [[Bill Ray Spivey]] oma isa tappis 
+	- See on juhus
+- TAUSTAKONTROLL
+	- Elab Knoxville'is
+	- Avaldab ajalehte Watch the Skies!
+	- Teda on kaks korda arreteeritud
+		- *2x Trespassing*
+		- Mõlemal korral määrati karistuseks ühiskondlikult kasulik töö
+		- Mõlemad korrad sai ta karistada UFO uuringute käigus
+
+## Adamsi tuba
+- Kõnedele tema tuppa vastab arvuti modem, arvutiga ühendudes ei anna see mingit vastust ning tema arvutile kaugelt ligi ei saa.
+- Uksele koputades keegi ei vasta
+- **Alertness** -> ukse alune riba on käterätti täis topitud
+- Vastuvõtulauast saavad nad enda ametitunnistust näidates võtmed
+- Uksest tuleb end sisse suruda
+- Uksest sisenedes
+	- Agendid tunnevad kohe halba lõhna
+	- Tuba on täiesti pime
+	- Osa riideid on kenasti volditult tooli peal, osa on visatud suvaliselt nurka
+	- Põrandal on laiali kiirtoidu kartongid
+	- [[Adamsi arvuti]] on voodi peal
+	- Vannitoas on vannis laip
+		- Jalas on boxerid, seljas t-särk
+		- Randmed on läbi lõigatud
+		- Tema peas on u 8cm diameetriga koht, kus ei ole juukseid ning selle all on muhk, mis näeb ebainimlik välja
+		- Vesi vannis on veripunane ning sellest ei näe läbi
+
+## Tõde Adamsist
+- Adams sulges ennast tuppa, sest tema meeled olid ülitundlikud
+- Ta kattis aknad kinni ning toppis rätiku ukse alla, et valgus absoluutselt sisse ei pääseks
+- Ta ühendas lauatelefoni lahti ning ühendas selle hoopis enda läpakaga
+- Viimaks ta keeras lampidest lambipirnid välja
+- Siis proovis ta oma kaaslastega arvuti kaudu ühendust saada, lootes sellega mööda saada telefoni kõnejaamas olevatest pealtkuulajatest
+	- See õnnestus aga...
+- Adamsi õnnetuseks aga tema kehas olev mi-go protomateeria jälgis teda ning mi-go'd otsustasid, et on aeg eksperiment lõpetada ning protomateeria sundis Adamsi vanni vett täis laskma, sisse ronima ja endal randmeid läbi lõikama
+
+## Adamsi arvuti
+- Arvutis on kolm huvitavat faili
+	- Groversville notebook
+		- *Loomade lõikamine
+			- Kohalikud täägivad, et loomad avastati karjamaadelt, imelikel viisidel lõhkilõigatuna -> väga puhtad ning teravaservalised haavad
+			- Mõned talumehed nägid ööl vastu loomade avastamist taevas imelikke tulesid
+		- *Loomade muutmine*
+			- Robert Gum näitab Agentidele oma lehma, kelle udar eemaldati ilma ühegi nähtava haava või armita
+				- Keemilise testvedelikuga testides selgub, et udara asemele on pandud võltskude
+				- Laboriuuringute käigus leitakse, et see kude mimikeerib udarat, kui vasikas seda nügib ning lehm suudab jätkuvalt piima toota
+		- *Puuduv aeg*
+			- Need, keda Adams on intervjueerinud eitavad, et neil oleks osa ajast kadunud
+			- Nad eitavad seda ka siis kui neid hirmutatakse
+			- Nad ilmselgelt valetavad aga ei ütle midagi ükskõik kuidas neid ähvardatakse, v.a piinamine või surmaga ähvardamine
+				- Sellisel juhul nad tunnistavad aja puudumist aga nad tõesti ei tea, mis nendega selle aja jooksul juhtus
+			- Nad ütlevad midagi stiilis
+				- "Miks te jälle mind tülitate?" või
+				- "Te ajakirjanikud jätke mind juba rahule"
+		- *Helikopterid*
+			- ta nägi [[NRO DELTA]] kahte Blackhawck helikopterit, mis lasid maha ühe mi-go, mis oli isetegevust hakanud tegema
+		- *Tuled
+			- Peaaegu kõik linnaelanikud on öösel näinud tulesid
+			- Tuled on tegelikult mi-go'd, kes üle linna lendavad
+		- *Viljaringid*
+			- Paari põllumehe põldudele on tekkinud viljaringid
+			- Groversville'i viljaringid on väga lihtsa disainiga
+			- Agent, kellel on **Pilot / Military Science** saavad teha **+20%** checki
+				- Success -> tegemist on Blackhawkide maandumisaladega
+		- *J.A*
+			- See on viide [[Jane Allen]]ile, [[Bill Ray Spivey]] tüdruksõbrale
+		- *Allen, Barn, Thomas, Jacobs, Cartwright & Anderson*
+			- Tegemist on [[Vanematekogu]] liikmetega, kes ei lahku kunagi Linnavalitsusest
+	- sze,t
+		- Täielik hullumeelsus
+	- Message.wav
+		- Tegemist on lihtsalt kuulates täiesti arusaamatu
+		- **Computer Science / SIGINT**
+			- Success -> Kasutavad vastavat programmi Adamsi arvutis
+			- Metalne hääl ütleb:
+				- "...tegeleme. (*kshh*) on olnud pikka aega ning meil on palju asju, mida teha ning sa pole kindel, mida teha. Lõpeta, lõpeta."
